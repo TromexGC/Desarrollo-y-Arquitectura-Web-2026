@@ -1,0 +1,33 @@
+#contenedor {
+  width: 800px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+#cabecera {
+  background-color: #ddd;
+  padding: 10px;
+  display: none;
+}
+
+#menu {
+  width: 200px;
+  float: right;
+  background-color: #ccc;
+  padding: 10px;
+  display: none;
+}
+
+#contenido {
+  margin-right: 220px;
+  height: 500px;
+  background-color: #eee;
+  padding: 10px;
+}
+
+#pie {
+  background-color: #ddd;
+  padding: 10px;
+  text-align: right;
+  display: none;
+}
