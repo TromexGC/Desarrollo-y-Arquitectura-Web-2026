@@ -1,0 +1,9 @@
+@media (min-width: 768px) {
+
+    #subscriptionForm{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+}
